@@ -5,7 +5,7 @@
 <br/>
 
 ```js
-// TIMEZONE is not a const! I'm always up to travel anywhere! 💗
+// TIMEZONE is not a const! I'm always up to travel anywhere! ✈️
 let timezone = new Date
                       .now()
                       .toLocaleString(
