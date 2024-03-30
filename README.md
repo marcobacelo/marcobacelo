@@ -25,9 +25,6 @@ let work = {
 <br/>
 
 ## 💻 Technologies
-
-<br/>
-
 ### 💬 Languages, frameworks and markups
  
 <br/>
@@ -42,7 +39,7 @@ let work = {
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcobacelo&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcobacelo&layout=pie)](https://github.com/marcobacelo/github-readme-stats)
 
 <br/><br/>
 
@@ -56,9 +53,9 @@ let work = {
 
 #### AWS Tools:
 <code><img src="https://www.svgrepo.com/show/353443/aws.svg" width="40px" alt="AWS" title="AWS" /></code>
-<code><img src="https://www.svgrepo.com/show/448267/aws-lambda.svg" width="40px" alt="aws-lambdas" title="aws-lambdas" /></code>
-<code><img src="https://www.svgrepo.com/show/448262/amazon-eks.svg" width="40px" alt="aws-eks" title="aws-eks" /></code>
-<code><img src="https://www.svgrepo.com/show/353458/aws-rds.svg" width="40px" alt="aws-rds" title="aws-rds" /></code>
+<code><img src="https://www.svgrepo.com/show/448267/aws-lambda.svg" width="40px" alt="aws-lambdas" title="AWS Lambdas" /></code>
+<code><img src="https://www.svgrepo.com/show/448262/amazon-eks.svg" width="40px" alt="aws-eks" title="AWS EKS" /></code>
+<code><img src="https://www.svgrepo.com/show/353458/aws-rds.svg" width="40px" alt="aws-rds" title="AWS RDS" /></code>
 
 <br/>
 
