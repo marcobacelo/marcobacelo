@@ -83,7 +83,7 @@ let work = {
 
 <br/>
 
-<a href="https://www.linkedin.com/in/marco-soares-863339144/" target="_blank">
+<a href="https://www.linkedin.com/in/marco-bacelo-863339144/" target="_blank">
   <code><img width="40px" src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="My LinkedIn profile" /></code>
 </a>
 <a href="mailto:marcobacelo90@gmail.com">
