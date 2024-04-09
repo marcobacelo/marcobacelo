@@ -30,12 +30,12 @@ let work = {
 <br/>
 
 <code><img src="https://www.svgrepo.com/show/303654/java-logo.svg" width="40px" alt="Java" title="Java" /></code>
+<code><img src="https://www.svgrepo.com/show/355081/js.svg" width="40px" alt="JavaScript" title="JavaScript" /></code>
+<code><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="40px" alt="TypeScript" title="TypeScript" /></code>
 <code><img src="https://www.svgrepo.com/show/354379/spring.svg" width="40px" alt="Spring" title="Spring" /></code>
 <code><img src="https://www.svgrepo.com/show/378837/node.svg" width="40px" alt="Node.js" title="Node.js" /></code>
 <code><img src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg" width="40px" alt="Nest.js" title="Nest.js" /></code>
 <code><img src="https://www.svgrepo.com/show/355190/reactjs.svg" width="40px" alt="React Native" title="React Native" /></code>
-<code><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="40px" alt="TypeScript" title="TypeScript" /></code>
-<code><img src="https://www.svgrepo.com/show/355081/js.svg" width="40px" alt="JavaScript" title="JavaScript" /></code>
 
 <br/>
 
