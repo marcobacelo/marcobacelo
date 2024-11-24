@@ -15,8 +15,7 @@ let timezone = new Date
 
 let work = {
   isWorking: true,
-  position: 'Senior Software Engineer',
-  since: 2023,
+  position: 'Senior Software Engineer'
 };
 
 ```
