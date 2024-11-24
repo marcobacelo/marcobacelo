@@ -15,7 +15,6 @@ let timezone = new Date
 
 let work = {
   isWorking: true,
-  company: 'Zup/Itaú Unibanco',
   position: 'Senior Software Engineer',
   since: 2023,
 };
